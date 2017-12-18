@@ -1,0 +1,13 @@
+.hideer12{
+    display: none;
+}
+
+.num_token {
+    width: min-content !important;
+    padding: 0px 1px !important;
+    margin: 0px !important;
+    /* display: inline-block  !important; */
+    /* border: 1px solid #ccc  !important; */
+    /* border-radius: 4px  !important; */
+    /* box-sizing: border-box  !important; */
+}
