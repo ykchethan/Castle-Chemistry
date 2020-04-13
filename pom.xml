@@ -118,8 +118,7 @@
 				
 
 	</dependencies>	
-	
-	<!--from here added by Anuswadh -->
+
     <build>
         <pluginManagement>
             <plugins>
@@ -146,6 +145,5 @@
             </plugins>
         </pluginManagement>
     </build>
-   <!-- to here added by Anuswadh -->
     
 </project>
